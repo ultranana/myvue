@@ -8,7 +8,7 @@ import TheWelcome from '../components/TheWelcome.vue'
     <RouterLink to="/about">About</RouterLink>
   </nav>
   <div class="home">
-    <h1>安好的首页</h1>
+    <h1>安好的首页1</h1>
     <img src="@/assets/miao.jpeg" class="miao" />
   </div>
 </template>
